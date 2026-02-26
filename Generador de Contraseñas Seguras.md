@@ -1,6 +1,6 @@
 # Objetivo del Programa
 Desarrollar un programa capaz de generar contraseñas seguras de manera automática, utilizando estructuras condicionales, repetitivas y funciones en Python.
-Este programa genera contraseñas aleatorias conbinando
+Este programa genera contraseñas aleatorias combinando
 Letras Mayusculas
 Letras Minusculas
 Numeros
@@ -20,7 +20,7 @@ El usuario ingresa la longitud de la contraseña.
 El sistema valida que sea un número válido.
 Si el número es menor al permitido:
 Se muestra un mensaje de error.
-Se vuelve a solicitar el dato.
+Se vuelve a solicitar el que ingrese el numero.
 Una vez validado:
 Se genera automáticamente una contraseña segura.
 # Tecnologías Utilizadas
